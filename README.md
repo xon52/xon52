@@ -1,23 +1,20 @@
+  
+# Hi, I'm Keagan
+
+🎨 I work at **Canva** building smart features that blend **LLMs, generative AI, and traditional algorithms** for 100+ million users
+
+👥 I manage a team of **Frontend, Backend, and ML engineers**, collaborating across product, design, data, quality, marketing, and leadership
+
+🎯 My life goal is building cool things with cool people
+
+💭 I am optimistic that one day I'll finish a side project and it'll change the world 🤩
+
 <div align="center">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=xon52&show_icons=true&locale=en&layout=compact" alt="xon52" />
+<br>
+</div>
 
-  # Hi 👋, I'm Keagan
-
-  🔭 I’m currently managing a team working on **administration features for SafetyCulture**
-  
-  💬 Ask me about **strategy, management, frontend, and startups**
-  
-  📫 How to reach me: **https://chisnall.io**
-  
-  ⚡ Fun fact **I believe CSS is a programming language**
-  
-  
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xon52&show_icons=true&locale=en&layout=compact" alt="xon52" />
-  <br>
-  
-  ### Connect with me:
-  <a href="https://linkedin.com/in/keagan.chisnall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keagan.chisnall" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/xon52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="xon52" height="30" width="40" /></a>
-  <a href="https://medium.com/@xon5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@xon5" height="30" width="40" /></a>
-
+<div align="right">
+  <a href="https://www.linkedin.com/in/keagan-chisnall/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keagan.chisnall" height="15" width="20" /></a>
 </div>

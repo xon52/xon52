@@ -5,13 +5,13 @@
 
 👥 I manage a team of **Frontend, Backend, and ML engineers**, collaborating across product, design, data, quality, marketing, and leadership
 
-🎯 My life goal is building cool things with cool people
+🎯 I love building cool things with cool people
 
 💭 I am optimistic that one day I'll finish a side project and it'll change the world 🤩
 
 <div align="center">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=xon52&show_icons=true&locale=en&layout=compact" alt="xon52" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xon52&theme=dark" alt="GitHub Streak" /></a>
 <br>
 </div>
 
